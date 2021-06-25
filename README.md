@@ -1,6 +1,6 @@
 ### Hello, folks 👋
 
-My name is Lucas Henrique and I'm a Networks Engineer/Data Analyst. I'm from Brazil, living in Brasília and currently working at Zapay Payments as a Risk Analyst. I'm also working as an IT Auditor at Fiocruz and as Researcher at IPEA
+My name is Lucas Henrique and I'm a Networks Engineer/Data Analyst. I'm from Brazil, living in Brasília and currently working at Zapay Payments as a Risk Analyst. I'm also working as an IT Auditor at Fiocruz and as a Researcher at IPEA
 
 <br>
 
