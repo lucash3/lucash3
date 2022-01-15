@@ -1,6 +1,6 @@
 ### Hello, folks 👋
 
-My name is Lucas Henrique and I'm a Networks Engineer. I'm from Brazil, living in Brasília. I started my career in 2017 as an IT intern, and I’m currently assigned as a Data Analyst at the biggest Cooperative Financial institution in Brazil conducting advanced exploratory data analysis, handling and processing informational loads, structuring management reports and also developing predictive modeling.
+My name is Lucas Henrique and I'm a Networks Engineer. I'm from Brazil, living in Brasília. I started my career in 2017 as an IT intern, and I’m currently assigned as a Data Analyst at the biggest Cooperative Financial Institution in Brazil conducting advanced exploratory data analysis, handling and processing informational loads, structuring management reports and also developing predictive modeling.
 
 I have been working for various research agencies with different projects, gaining experience with a variety of technologies. Mostly related to business solutions, programming, process automation and design of APIs.
 
