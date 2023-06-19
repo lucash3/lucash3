@@ -18,9 +18,6 @@ I have been working for various research agencies with different projects, gaini
 ![](https://img.shields.io/badge/BI-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#f9f53b) ![](https://img.shields.io/badge/BI-Google_DataStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#f9f53b) ![](https://img.shields.io/badge/BI-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#f9f53b) ![](https://img.shields.io/badge/BI-IBM_Cognos-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#f9f53b)
 
 
-
-![](https://img.shields.io/badge/BI-DataStudio_PowerBI_Tableau_IBMCOGNOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#f9f53b)
-
 <br>
 
 📜 Apart from working, I also study _Software Analysis and Development_ at IFG
