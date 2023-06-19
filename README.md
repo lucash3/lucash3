@@ -20,7 +20,7 @@ I have been working for various research agencies with different projects, gaini
 
 <br>
 
-📜 Apart from working, I also study _Software Analysis and Development_ at IFG
+📜 Apart from working, I also study _Software Analysis and Development_ at IFG and I’m taking a specialization course in Business Analytics & Big Data at FGV.
 
 💻 And I’m constantly learning new programming languages and technologies
 
